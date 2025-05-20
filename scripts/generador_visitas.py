@@ -29,7 +29,19 @@ porcentaje_nulos_general = 0.07
 
 # --- Función para introducir nulos ---
 def introducir_nulos(data_array, porcentaje_nulos):
-    """Introduce un porcentaje de valores NaN en una copia del array."""
+    """
+    Introduce un porcentaje de valores NaN (Not a Number, un tipo de nulo)
+    en una copia del array o estructura similar a un array que se le pase.
+
+    Parámetros:
+    data_array (array-like): La estructura de datos (lista, array de NumPy, Serie de Pandas)
+                             a la que se le añadirán nulos.
+    porcentaje_nulos (float): El porcentaje de nulos a introducir, expresado como decimal
+                              (ej. 0.05 para 5%).
+
+    Retorna:
+    numpy.ndarray: Un nuevo array de NumPy con los nulos introducidos.
+    """
     if pd.api.types.is_integer_dtype(data_array) and not pd.api.types.is_bool_dtype(data_array):  # No convertir booleanos a float
         data_array_con_nulos = data_array.astype(float)
     else:
