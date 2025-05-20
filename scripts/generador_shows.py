@@ -5,6 +5,7 @@ import numpy as np
 porcentaje_nulos_general = 0.07
 total_shows = 18
 
+
 # --- Función para introducir nulos ---
 def introducir_nulos(data_array, porcentaje_nulos):
     """Introduce un porcentaje de valores NaN en una copia del array."""
@@ -45,7 +46,7 @@ tipos_ambientes = [
 
 ambientes = np.random.choice(tipos_ambientes, size=total_shows)
 
-duracion = np.random.randint(30,121,size=total_shows)
+duracion = np.random.randint(30, 121, size=total_shows)
 
 nombres_shows_con_nulos = introducir_nulos(nombres_shows, porcentaje_nulos_general)
 cupos_totales_con_nulos = introducir_nulos(cupos_totales, porcentaje_nulos_general)
