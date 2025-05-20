@@ -61,11 +61,9 @@ id_habitat_lista_original = np.random.choice(
     size=total_visitas_registros,
     p=habitat_probabilities
 )
-id_habitat_con_nulos = introducir_nulos(id_habitat_lista_original, porcentaje_nulos_general)
 
 # Generar ID_entrada
 id_entrada_lista_original = np.random.randint(min_id_entrada, max_id_entrada + 1, size=total_visitas_registros)
-id_entrada_con_nulos = introducir_nulos(id_entrada_lista_original, porcentaje_nulos_general)
 
 # Generar 'satisfaccion' (escala 1-5)
 satisfaccion_lista_original = np.random.randint(1, 6, size=total_visitas_registros)
@@ -74,8 +72,8 @@ satisfaccion_con_nulos = introducir_nulos(satisfaccion_lista_original, porcentaj
 
 # --- Crear DataFrame de Pandas ---
 df_visitas_habitats = pd.DataFrame({
-    'ID_entrada': id_entrada_con_nulos,
-    'ID_habitat': id_habitat_con_nulos,
+    'ID_entrada': id_entrada_lista_original,
+    'ID_habitat': id_habitat_lista_original,
     'satisfaccion': satisfaccion_con_nulos
 })
 
@@ -84,7 +82,7 @@ df_visitas_habitats = df_visitas_habitats.sort_values(by='ID_entrada').reset_ind
 
 # --- Guardar a CSV ---
 carpeta_destino = 'zoo_dataset'
-nombre_archivo_csv = 'visitas_habitats_sucio_generado.csv'
+nombre_archivo_csv = 'visitas_habitats_sucio.csv'
 
 if not os.path.exists(carpeta_destino):
     os.makedirs(carpeta_destino)
