@@ -1,0 +1,19 @@
+ID_show,nombre_show,cupos_totales,cupos_ocupados,tipo_ambiente,duracion
+S001,Aventuras Salvajes,38.0,34.0,Cerrado,116.0
+S002,El Rugido de la Selva,39.0,21.0,Abierto,62.0
+S003,Vuelo Majestuoso,NULL,14.0,Abierto,109.0
+S004,Guardianes del Reino Animal,45.0,28.0,Mixto,114.0
+S005,Entre Garras y Plumas,46.0,0.0,NULL,65.0
+S006,Reptiles al Descubierto,39.0,33.0,Abierto,98.0
+S007,Safari Sonoro,30.0,20.0,Abierto,106.0
+S008,Zooluminación Nocturna,34.0,18.0,Abierto,69.0
+S009,Amigos del Pantano,39.0,11.0,Mixto,NULL
+S010,NULL,45.0,22.0,Abierto,49.0
+S011,Baile de las Aves,33.0,3.0,Cerrado,75.0
+S012,Pequeños Exploradores,39.0,21.0,Cerrado,61.0
+S013,Magia Marina,41.0,16.0,Cerrado,97.0
+S014,Caminata con Canguros,40.0,NULL,Cerrado,54.0
+S015,El Misterio del Amazonas,33.0,11.0,Abierto,109.0
+S016,Bestias del Crepúsculo,31.0,18.0,Abierto,58.0
+S017,Manada en Movimiento,42.0,39.0,Mixto,52.0
+S018,Historias del Zoo,37.0,21.0,Mixto,48.0
