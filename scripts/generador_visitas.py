@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import numpy as np
 
@@ -70,7 +71,14 @@ df_visitas_habitats = pd.DataFrame({
 df_visitas_habitats = df_visitas_habitats.sort_values(by='ID_entrada').reset_index(drop=True)
 
 # --- Guardar a CSV ---
+carpeta_destino = 'zoo_dataset'
 nombre_archivo_csv = 'visitas_habitats_sucio_generado.csv'
+
+if not os.path.exists(carpeta_destino):
+    os.makedirs(carpeta_destino)
+
+nombre_archivo_csv = os.path.join(carpeta_destino, nombre_archivo_csv)
+
 df_visitas_habitats.to_csv(nombre_archivo_csv, index=False, na_rep='NULL')
 
 print(f"Archivo '{nombre_archivo_csv}' generado con {len(df_visitas_habitats)} registros.")
