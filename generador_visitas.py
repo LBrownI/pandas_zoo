@@ -77,11 +77,5 @@ print(f"Archivo '{nombre_archivo_csv}' generado con {len(df_visitas_habitats)} r
 print("\nPrimeras 10 filas del DataFrame generado:")
 print(df_visitas_habitats.head(10))
 
-print("\nConteo de valores nulos por columna:")
-print(df_visitas_habitats.isnull().sum())
-
 print("\nPorcentaje de valores nulos por columna:")
 print(df_visitas_habitats.isnull().mean().apply(lambda x: f"{x:.2%}"))
-
-print("\nDistribución de visitas por hábitat (conteo, ignorando nulos):")
-print(df_visitas_habitats['ID_habitat'].value_counts(dropna=False))
