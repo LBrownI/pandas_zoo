@@ -28,13 +28,25 @@ shows_ids = [
 ]
 
 nombres_shows = [
-    "Aventuras Salvajes", "El Rugido de la Selva", "Vuelo Majestuoso", "Guardianes del Reino Animal",
-    "Entre Garras y Plumas", "Reptiles al Descubierto", "Safari Sonoro", "Zooluminación Nocturna",
-    "Amigos del Pantano", "Gigantes de la Sabana", "Baile de las Aves", "Pequeños Exploradores", "Magia Marina",
-    "Caminata con Canguros", "El Misterio del Amazonas", "Bestias del Crepúsculo", "Manada en Movimiento", 
+    "Aventuras Salvajes",
+    "El Rugido de la Selva",
+    "Vuelo Majestuoso",
+    "Guardianes del Reino Animal",
+    "Entre Garras y Plumas",
+    "Reptiles al Descubierto",
+    "Safari Sonoro",
+    "Zooluminación Nocturna",
+    "Amigos del Pantano",
+    "Gigantes de la Sabana",
+    "Baile de las Aves",
+    "Pequeños Exploradores",
+    "Magia Marina",
+    "Caminata con Canguros",
+    "El Misterio del Amazonas",
+    "Bestias del Crepúsculo",
+    "Manada en Movimiento",
     "Historias del Zoo"
 ]
-
 
 cupos_totales = np.random.randint(30, 51, size=total_shows)
 
