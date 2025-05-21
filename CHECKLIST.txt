@@ -1,8 +1,8 @@
 1. Definicion y Justificacion del Contexto
 
 [X] Elegir un contexto original y relevante de analisis de datos
-[] Justificar claramente la eleccion del contexto
-[] Definir preguntas de investigacion especıficas
+[X] Justificar claramente la eleccion del contexto
+[X] Definir preguntas de investigacion especıficas
 [] Explicar la relevancia practica del analisis
 
 
@@ -17,7 +17,7 @@ Utilizar distribuciones de probabilidad apropiadas:
 [] Poisson: para conteos de eventos (numero de compras, visitas)
 [] Exponencial: para tiempos entre eventos (duraci´on de sesiones)
 Incluir variables con diferentes rangos y categorıas:
-[] Categorıas (mınimo 3-5 categorıas por variable categorica)                      ------->>> NO ENTIENDO MUY BIEN A QUE SE REFIERE ToT
+[X] Categorıas (mınimo 3-5 categorıas por variable categorica)                      ------->>> NO ENTIENDO MUY BIEN A QUE SE REFIERE ToT
 [] Rangos numericos apropiados al contexto
 [X] Combinacion de variables continuas y discretas
 [X] Incorporar valores nulos programaticamente (5-10 % por columna)
