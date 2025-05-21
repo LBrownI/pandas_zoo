@@ -1,0 +1,57 @@
+1. Definicion y Justificacion del Contexto
+
+[X] Elegir un contexto original y relevante de analisis de datos
+[] Justificar claramente la eleccion del contexto
+[] Definir preguntas de investigacion especıficas
+[] Explicar la relevancia practica del analisis
+
+
+2. Generacion de Datasets Sinteticos
+
+[X] Crear al menos dos archivos CSV con datos sinteticos, cada uno con mınimo 100 registros
+
+Utilizar distribuciones de probabilidad apropiadas:
+[] Normal: para variables continuas (edades, salarios, calificaciones)
+[] Uniforme: para variables categoricas (ciudades, categorıas de productos)
+[] Binomial: para eventos binarios (aprobado/reprobado, activo/inactivo)
+[] Poisson: para conteos de eventos (numero de compras, visitas)
+[] Exponencial: para tiempos entre eventos (duraci´on de sesiones)
+Incluir variables con diferentes rangos y categorıas:
+[] Categorıas (mınimo 3-5 categorıas por variable categorica)                      ------->>> NO ENTIENDO MUY BIEN A QUE SE REFIERE ToT
+[] Rangos numericos apropiados al contexto
+[X] Combinacion de variables continuas y discretas
+[X] Incorporar valores nulos programaticamente (5-10 % por columna)
+[] Justificar cada distribucion utilizada segun el contexto
+
+
+3. Limpieza y Manipulacion de Datos
+[] Detectar y manejar valores nulos
+[] Realizar conversiones de tipos de datos
+[] Identificar y tratar outliers
+[] Documentar cada paso de limpieza
+
+
+4. Analisis Exploratorio
+[] Calcular estad´ısticas descriptivas
+[] Realizar analisis de correlaciones
+[] Aplicar agregaciones y groupby
+[] Usar indexaci´on fancy y slicing
+
+
+5. Visualizaciones
+[] Crear histogramas y density plots
+[] Generar box plots y scatter plots
+[] Crear heatmaps de correlacion
+[] Utilizar diversos tipos de graficos segun los datos
+
+
+6. Analisis Avanzado
+[] Cruzar datasets usando claves apropiadas
+[] Realizar analisis por segmentos
+[] Identificar patrones significativos
+[] Generar insights basados en datos
+
+
+7. Exportacion de Resultados
+[] Guardar resultados en archivo Excel
+[] Incluir todas las tablas y analisis generados

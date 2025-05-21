@@ -1,0 +1,37 @@
+Rubrica de evaluacion
+
+a. [] Seleccion y justificacion del contexto (creatividad, relevancia, originalidad) (10 puntos)
+
+b. [] Definicion de preguntas de investigacion relevantes (5 puntos)
+
+c. [] Justificacion de distribuciones de probabilidad y rangos de datos utilizados (10 puntos)
+
+d. [] Generaci´on correcta de datasets sint´eticos realistas con rangos y categorıas apropiadas (15 puntos)
+
+e. [] Implementaci´on correcta de valores nulos (5 puntos)
+
+f. [] Limpieza adecuada de datos y documentaci´on (10 puntos)
+
+g. [] C´alculo correcto de estad´ısticas descriptivas (10 puntos)
+
+h. [] An´alisis de correlaciones y agregaciones (10 puntos)
+
+i. [] Uso correcto de indexaci´on fancy y slicing (5 puntos)
+
+j. [] Calidad y variedad de visualizaciones (15 puntos)
+
+k. [] Cruce correcto de DataFrames (10 puntos)
+
+l. [] An´alisis avanzado e identificaci´on de patrones (15 puntos)
+
+m. [] Exportaci´on correcta a Excel (5 puntos)
+
+n. [] Claridad y estructura del c´odigo, incluyendo comentarios explicativos (10 puntos)
+
+o. [] Presentaci´on adecuada en el Jupyter Notebook (explicaciones, capturas de pantalla y resultados visibles de la ejecuci´on) (25 puntos)
+
+p. [] Notebook correctamente ejecutado con todas las salidas visibles (10 puntos)
+
+q. [] Entrega correcta a trav´es de Blackboard respetando los grupos y formato de entrega (5 puntos)
+
+Total: 170 puntos
