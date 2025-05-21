@@ -57,11 +57,11 @@ tipos_ambientes = [
 
 ambientes = np.random.choice(tipos_ambientes, size=total_habitats)
 
-permite_alimentos = np.random.choice([True,False], size=total_habitats)
+permite_alimentos = np.random.choice([True, False], size=total_habitats)
 
-comercio = np.random.choice([True,False], size=total_habitats)
+comercio = np.random.choice([True, False], size=total_habitats)
 
-aforo = np.random.randint(30,50,size=total_habitats)
+aforo = np.random.randint(30, 50, size=total_habitats)
 
 nombres_habitats_con_nulos = introducir_nulos(nombres_habitats, porcentaje_nulos_general)
 cantidad_especies_con_nulos = introducir_nulos(cantidad_especies, porcentaje_nulos_general)
