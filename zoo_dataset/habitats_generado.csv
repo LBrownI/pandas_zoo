@@ -1,0 +1,19 @@
+ID_habitat,nombre_habitat,cantidad_especies,tipo_ambiente,permite_alimentos,comercio,aforo
+H001,Selva Tropical,2,Abierto,True,True,36
+H002,Sabana Dorada,1,Cerrado,False,True,43
+H003,Caverna de los Murciélagos,4,Cerrado,False,True,35
+H004,Pantano Misterioso,4,Mixto,False,False,46
+H005,Bosque Templado,4,Cerrado,False,True,32
+H006,Rincón de los Reptiles,2,Cerrado,False,False,31
+H007,Altas Cumbres,3,Cerrado,True,False,39
+H008,Mares Profundos,2,Abierto,True,True,49
+H009,Isla de los Primates,2,Abierto,True,True,39
+H010,Valle del Tigre,3,Cerrado,False,True,38
+H011,Estepa Salvaje,2,Cerrado,True,False,35
+H012,Refugio del Panda,4,Mixto,True,False,38
+H013,Jardín de las Mariposas,4,Cerrado,False,False,30
+H014,Desierto Rojo,1,Mixto,False,True,31
+H015,Granja Interactiva,1,Abierto,True,False,41
+H016,La Antártida Viva,4,Mixto,True,True,40
+H017,Bosque de Koalas,2,Cerrado,True,False,34
+H018,Zona Nocturna,3,Mixto,True,True,41

@@ -1,201 +1,601 @@
 ID_entrada,VIP,rango_etario,fecha,día_semana,hora_ingreso
-0,True,Adulto,15/11/2024,Viernes,15:04
-1,True,Adulto Mayor,10/10/2024,Jueves,16:42
-2,False,Adulto,01/11/2024,Viernes,15:41
-3,False,Adulto Mayor,05/09/2024,Jueves,10:09
-4,False,Adulto Mayor,18/09/2024,Miércoles,15:21
-5,False,Niño,NULL,NULL,16:17
-6,True,Adulto Mayor,16/10/2024,Miércoles,10:29
-7,False,Adulto,16/08/2024,Viernes,13:39
-8,False,Adulto,04/09/2024,Miércoles,14:37
-9,False,NULL,13/11/2024,Miércoles,12:03
-10,True,NULL,01/11/2024,Viernes,13:49
-11,True,NULL,03/09/2024,Martes,15:26
-12,True,Niño,22/12/2024,NULL,12:04
-13,True,Adulto Mayor,20/10/2024,Domingo,NULL
-14,True,NULL,13/09/2024,Viernes,16:26
-15,False,Adulto Mayor,29/11/2024,Viernes,15:16
-16,False,Adulto,31/12/2024,Martes,11:34
-17,False,Adulto,08/11/2024,Viernes,13:50
-18,False,Niño,17/08/2024,Sábado,11:42
-19,False,Adulto Mayor,28/11/2024,Jueves,13:19
-20,False,Adulto,30/10/2024,Miércoles,16:26
-21,False,NULL,21/11/2024,Jueves,11:31
-22,False,Niño,24/10/2024,Jueves,11:14
-23,NULL,Niño,17/10/2024,Jueves,15:41
-24,False,Adulto,18/11/2024,NULL,17:25
-25,False,NULL,17/10/2024,Jueves,09:47
-26,True,Niño,19/10/2024,Sábado,12:55
-27,True,Adulto,14/11/2024,Jueves,12:00
-28,True,NULL,15/10/2024,Martes,13:48
-29,True,Adulto,03/12/2024,Martes,NULL
-30,False,Niño,16/09/2024,Lunes,11:14
-31,False,Adulto Mayor,14/12/2024,Sábado,10:06
-32,False,Adulto Mayor,08/11/2024,Viernes,10:50
-33,False,Adulto,05/12/2024,Jueves,12:40
-34,False,Niño,31/10/2024,Jueves,NULL
-35,False,Niño,30/09/2024,Lunes,NULL
-36,NULL,Adulto Mayor,10/09/2024,Martes,12:12
-37,False,Adulto Mayor,21/09/2024,Sábado,10:33
-38,False,NULL,28/09/2024,Sábado,10:24
-39,True,Niño,19/09/2024,Jueves,11:14
-40,True,NULL,16/08/2024,Viernes,10:50
-41,True,NULL,04/10/2024,Viernes,12:55
-42,True,NULL,21/10/2024,Lunes,09:54
-43,False,Adulto,NULL,NULL,15:48
-44,True,Adulto Mayor,27/10/2024,Domingo,NULL
-45,False,Adulto Mayor,16/11/2024,Sábado,13:13
-46,False,Adulto Mayor,15/09/2024,Domingo,13:24
-47,True,NULL,26/11/2024,Martes,09:40
-48,True,Adulto,08/10/2024,Martes,16:18
-49,False,Adulto,03/09/2024,NULL,13:28
-50,False,Adulto Mayor,15/12/2024,Domingo,15:13
-51,False,Adulto Mayor,29/10/2024,Martes,16:14
-52,False,Niño,06/11/2024,Miércoles,15:17
-53,False,Adulto,15/10/2024,Martes,NULL
-54,True,Adulto,25/10/2024,Viernes,14:30
-55,False,Adulto Mayor,22/12/2024,Domingo,NULL
-56,False,Niño,13/12/2024,Viernes,14:27
-57,NULL,Adulto,23/12/2024,Lunes,16:49
-58,NULL,Niño,26/08/2024,Lunes,09:54
-59,True,Niño,NULL,NULL,10:49
-60,True,Adulto Mayor,21/08/2024,Miércoles,16:24
-61,True,Adulto Mayor,27/12/2024,Viernes,15:24
-62,True,Adulto Mayor,06/11/2024,Miércoles,12:36
-63,NULL,Niño,16/11/2024,Sábado,14:34
-64,NULL,Niño,15/08/2024,Jueves,11:25
-65,False,Adulto Mayor,NULL,NULL,09:42
-66,False,Niño,NULL,NULL,13:48
-67,True,Niño,08/12/2024,NULL,16:41
-68,False,Adulto,20/08/2024,Martes,13:32
-69,False,Niño,10/10/2024,Jueves,14:07
-70,True,Adulto Mayor,24/09/2024,Martes,15:43
-71,NULL,Niño,28/10/2024,Lunes,10:42
-72,True,Adulto Mayor,14/11/2024,Jueves,14:52
-73,True,Adulto,18/12/2024,Miércoles,NULL
-74,False,Niño,03/12/2024,Martes,11:42
-75,True,Niño,18/09/2024,Miércoles,NULL
-76,False,Adulto Mayor,27/09/2024,Viernes,NULL
-77,True,Adulto,24/09/2024,Martes,14:21
-78,True,Adulto Mayor,21/12/2024,Sábado,17:25
-79,True,Niño,23/11/2024,Sábado,NULL
-80,False,Niño,01/11/2024,Viernes,11:59
-81,False,Adulto,21/08/2024,Miércoles,11:17
-82,False,Adulto Mayor,13/09/2024,Viernes,16:17
-83,True,Adulto Mayor,25/11/2024,NULL,09:54
-84,NULL,Niño,28/10/2024,Lunes,13:27
-85,False,NULL,27/10/2024,Domingo,16:11
-86,True,Adulto,25/11/2024,NULL,15:45
-87,False,NULL,21/10/2024,Lunes,12:06
-88,True,Niño,26/12/2024,Jueves,15:43
-89,False,Niño,NULL,NULL,14:50
-90,NULL,Niño,23/11/2024,Sábado,12:50
-91,True,Adulto Mayor,23/11/2024,Sábado,13:15
-92,True,Adulto,12/10/2024,Sábado,NULL
-93,True,Adulto Mayor,12/10/2024,Sábado,14:47
-94,True,Adulto Mayor,NULL,NULL,13:10
-95,True,Adulto,16/10/2024,Miércoles,16:56
-96,True,Adulto Mayor,NULL,NULL,15:37
-97,True,Adulto Mayor,31/10/2024,Jueves,14:37
-98,True,NULL,09/11/2024,Sábado,10:32
-99,False,Niño,04/12/2024,Miércoles,NULL
-100,NULL,Adulto Mayor,02/12/2024,Lunes,12:57
-101,False,Niño,26/12/2024,Jueves,09:56
-102,False,Adulto Mayor,22/08/2024,Jueves,NULL
-103,False,Adulto Mayor,NULL,NULL,14:14
-104,True,Adulto Mayor,01/10/2024,NULL,16:06
-105,False,Adulto,27/10/2024,Domingo,17:12
-106,True,Adulto Mayor,10/11/2024,Domingo,11:24
-107,False,NULL,04/11/2024,Lunes,11:34
-108,True,Adulto Mayor,05/11/2024,Martes,15:29
-109,True,Adulto Mayor,10/09/2024,Martes,15:43
-110,True,Adulto Mayor,04/11/2024,Lunes,11:03
-111,False,Adulto,24/09/2024,Martes,09:45
-112,False,Niño,19/09/2024,Jueves,16:26
-113,True,Adulto Mayor,14/09/2024,Sábado,11:01
-114,True,Adulto,16/12/2024,Lunes,11:39
-115,True,Adulto,23/09/2024,Lunes,16:19
-116,False,Adulto,27/12/2024,Viernes,NULL
-117,False,Adulto Mayor,08/10/2024,Martes,13:33
-118,True,Adulto,11/11/2024,Lunes,16:48
-119,True,Adulto Mayor,23/08/2024,Viernes,11:45
-120,True,Adulto,NULL,NULL,13:24
-121,True,Adulto,12/12/2024,Jueves,12:16
-122,NULL,Adulto,16/10/2024,Miércoles,15:26
-123,True,Adulto Mayor,11/11/2024,Lunes,16:12
-124,NULL,Adulto,20/09/2024,Viernes,13:46
-125,False,Niño,01/11/2024,Viernes,15:38
-126,False,NULL,28/08/2024,Miércoles,15:02
-127,True,Niño,12/12/2024,Jueves,10:33
-128,False,Adulto Mayor,25/10/2024,Viernes,NULL
-129,False,Adulto Mayor,30/09/2024,Lunes,16:03
-130,False,Niño,29/08/2024,Jueves,12:41
-131,True,Adulto,20/12/2024,Viernes,15:58
-132,False,Adulto,01/10/2024,Martes,12:21
-133,False,Adulto,NULL,NULL,15:20
-134,True,Adulto Mayor,NULL,NULL,15:05
-135,NULL,Adulto Mayor,17/09/2024,Martes,13:23
-136,False,Niño,17/11/2024,NULL,14:22
-137,False,NULL,18/11/2024,Lunes,16:46
-138,NULL,Adulto Mayor,23/10/2024,Miércoles,13:59
-139,False,Adulto,23/08/2024,Viernes,16:33
-140,NULL,Adulto,26/09/2024,Jueves,13:33
-141,False,Adulto Mayor,17/12/2024,Martes,09:53
-142,False,Adulto Mayor,06/11/2024,NULL,10:31
-143,True,NULL,07/09/2024,Sábado,10:59
-144,False,Adulto,30/09/2024,Lunes,14:13
-145,True,Niño,26/10/2024,NULL,15:31
-146,False,Niño,16/09/2024,NULL,11:52
-147,False,Adulto Mayor,NULL,NULL,13:06
-148,True,Adulto,04/10/2024,Viernes,14:41
-149,True,Niño,02/10/2024,Miércoles,10:46
-150,False,Adulto Mayor,18/10/2024,Viernes,NULL
-151,False,Adulto Mayor,23/10/2024,Miércoles,10:18
-152,False,Adulto,04/12/2024,Miércoles,NULL
-153,False,NULL,23/08/2024,Viernes,16:29
-154,False,Adulto Mayor,30/10/2024,Miércoles,NULL
-155,False,Adulto,26/12/2024,Jueves,12:01
-156,True,Niño,NULL,NULL,15:24
-157,True,Adulto,10/11/2024,Domingo,16:19
-158,True,Adulto Mayor,20/08/2024,Martes,10:41
-159,True,Adulto Mayor,10/12/2024,Martes,12:30
-160,True,Adulto,25/11/2024,Lunes,10:36
-161,False,Adulto,10/09/2024,NULL,10:47
-162,True,Adulto,03/12/2024,Martes,15:26
-163,True,Adulto Mayor,19/08/2024,Lunes,11:22
-164,NULL,Adulto,10/11/2024,Domingo,14:46
-165,False,Adulto Mayor,16/10/2024,Miércoles,NULL
-166,NULL,Adulto,13/11/2024,Miércoles,15:07
-167,True,Adulto Mayor,NULL,NULL,16:32
-168,False,Adulto Mayor,15/09/2024,Domingo,16:19
-169,False,Adulto,11/10/2024,Viernes,09:48
-170,True,Adulto Mayor,25/08/2024,Domingo,NULL
-171,True,Adulto Mayor,18/08/2024,Domingo,15:20
-172,False,Niño,10/12/2024,NULL,15:27
-173,True,Niño,06/10/2024,Domingo,09:51
-174,False,Niño,19/12/2024,NULL,10:02
-175,True,Niño,NULL,NULL,16:26
-176,False,Niño,08/09/2024,Domingo,14:56
-177,True,Adulto Mayor,22/09/2024,Domingo,NULL
-178,True,NULL,04/11/2024,Lunes,14:00
-179,False,Adulto,09/09/2024,Lunes,15:28
-180,False,NULL,06/11/2024,Miércoles,10:55
-181,False,Niño,29/12/2024,Domingo,15:33
-182,True,Adulto Mayor,22/11/2024,Viernes,12:41
-183,False,Adulto,17/11/2024,Domingo,14:52
-184,True,NULL,23/12/2024,Lunes,10:07
-185,NULL,Adulto Mayor,24/08/2024,Sábado,14:37
-186,True,Adulto Mayor,28/11/2024,NULL,11:06
-187,False,Niño,17/10/2024,Jueves,11:44
-188,True,Adulto Mayor,04/12/2024,Miércoles,15:36
-189,NULL,Adulto Mayor,14/11/2024,Jueves,10:54
-190,NULL,Adulto Mayor,29/10/2024,Martes,15:15
-191,False,Adulto,15/11/2024,NULL,11:51
-192,True,Niño,01/11/2024,Viernes,11:04
-193,False,Adulto Mayor,07/11/2024,Jueves,NULL
-194,False,Niño,26/08/2024,Lunes,09:57
-195,True,Niño,15/11/2024,Viernes,14:24
-196,False,Adulto,27/08/2024,NULL,12:57
-197,False,Adulto Mayor,NULL,NULL,14:28
-198,NULL,Adulto Mayor,01/11/2024,Viernes,17:06
-199,NULL,Adulto Mayor,02/12/2024,Lunes,16:26
+0,NULL,Niño,17/12/2024,Martes,12:54
+1,True,Niño,05/09/2024,Jueves,NULL
+2,True,Niño,27/08/2024,Martes,14:27
+3,True,Adulto Mayor,25/12/2024,Miércoles,16:39
+4,True,Adulto Mayor,01/12/2024,Domingo,11:52
+5,False,Adulto,NULL,NULL,10:29
+6,True,Adulto,26/12/2024,NULL,17:25
+7,True,Adulto Mayor,20/09/2024,Viernes,11:54
+8,True,Adulto Mayor,04/10/2024,Viernes,09:48
+9,False,Adulto Mayor,17/10/2024,Jueves,10:26
+10,False,Adulto,24/11/2024,Domingo,10:55
+11,False,Niño,17/12/2024,Martes,15:20
+12,True,Adulto Mayor,NULL,NULL,15:12
+13,False,Niño,27/08/2024,Martes,15:09
+14,False,Adulto,22/11/2024,Viernes,NULL
+15,False,Niño,19/10/2024,Sábado,12:00
+16,False,Niño,24/10/2024,NULL,11:02
+17,True,Adulto,20/08/2024,Martes,09:41
+18,False,Niño,09/09/2024,Lunes,11:23
+19,True,Niño,25/08/2024,NULL,10:28
+20,True,NULL,02/10/2024,Miércoles,12:56
+21,True,NULL,01/12/2024,Domingo,14:49
+22,True,Adulto Mayor,29/12/2024,Domingo,09:44
+23,True,NULL,26/12/2024,Jueves,12:44
+24,NULL,Adulto Mayor,20/09/2024,Viernes,12:00
+25,True,Adulto,NULL,NULL,09:40
+26,True,NULL,18/12/2024,Miércoles,14:13
+27,False,Adulto Mayor,21/09/2024,Sábado,12:08
+28,True,Adulto Mayor,20/08/2024,NULL,10:32
+29,True,NULL,23/10/2024,Miércoles,10:06
+30,True,Niño,26/09/2024,Jueves,10:09
+31,True,Adulto Mayor,24/10/2024,Jueves,17:08
+32,True,Niño,08/09/2024,Domingo,15:13
+33,False,Adulto Mayor,20/10/2024,Domingo,13:28
+34,NULL,Adulto Mayor,11/11/2024,Lunes,11:39
+35,True,Niño,15/12/2024,Domingo,10:06
+36,False,Niño,27/11/2024,Miércoles,11:45
+37,False,Adulto,25/08/2024,Domingo,09:44
+38,False,Adulto Mayor,25/09/2024,Miércoles,11:32
+39,False,Adulto,22/09/2024,Domingo,16:41
+40,False,NULL,24/11/2024,Domingo,10:38
+41,True,Niño,13/11/2024,Miércoles,11:55
+42,False,Niño,14/10/2024,Lunes,12:48
+43,False,Adulto Mayor,30/12/2024,Lunes,NULL
+44,False,NULL,05/12/2024,Jueves,13:05
+45,False,Adulto Mayor,30/09/2024,Lunes,NULL
+46,True,Adulto Mayor,NULL,NULL,11:31
+47,NULL,Niño,22/10/2024,Martes,16:12
+48,False,Niño,21/10/2024,NULL,12:45
+49,False,Adulto,NULL,NULL,16:39
+50,NULL,Adulto,10/09/2024,Martes,11:12
+51,True,Niño,18/09/2024,Miércoles,09:39
+52,NULL,Adulto,09/12/2024,Lunes,12:59
+53,True,Niño,08/12/2024,NULL,12:49
+54,True,Adulto Mayor,31/08/2024,Sábado,16:00
+55,True,Adulto Mayor,NULL,NULL,16:07
+56,NULL,Adulto,21/12/2024,Sábado,17:04
+57,False,Niño,17/12/2024,Martes,14:21
+58,NULL,Niño,17/09/2024,Martes,09:52
+59,True,NULL,24/10/2024,Jueves,11:58
+60,False,Niño,29/11/2024,NULL,11:30
+61,True,Adulto Mayor,09/12/2024,Lunes,14:19
+62,False,Niño,NULL,NULL,15:56
+63,True,Adulto,07/09/2024,Sábado,17:09
+64,NULL,Niño,18/09/2024,Miércoles,14:09
+65,False,Adulto Mayor,17/12/2024,NULL,09:36
+66,True,Adulto Mayor,15/11/2024,Viernes,NULL
+67,True,Adulto,28/10/2024,NULL,16:19
+68,False,Niño,16/08/2024,Viernes,15:57
+69,NULL,Niño,01/11/2024,Viernes,15:42
+70,False,Adulto Mayor,11/12/2024,Miércoles,NULL
+71,False,Adulto Mayor,11/11/2024,Lunes,17:27
+72,True,Adulto Mayor,07/11/2024,Jueves,16:34
+73,False,Adulto,09/12/2024,Lunes,NULL
+74,True,Adulto Mayor,28/09/2024,Sábado,14:14
+75,False,Niño,12/09/2024,NULL,16:49
+76,NULL,Adulto,05/12/2024,Jueves,15:35
+77,False,Adulto Mayor,NULL,NULL,17:21
+78,True,Adulto,07/12/2024,NULL,13:23
+79,True,Niño,17/09/2024,Martes,11:22
+80,False,Adulto,07/09/2024,Sábado,NULL
+81,False,Adulto,21/12/2024,Sábado,17:24
+82,True,Adulto,24/08/2024,Sábado,14:10
+83,NULL,Adulto Mayor,26/12/2024,Jueves,10:42
+84,True,Adulto Mayor,21/08/2024,Miércoles,NULL
+85,False,Niño,31/08/2024,Sábado,NULL
+86,False,Adulto Mayor,07/10/2024,Lunes,13:30
+87,True,Adulto Mayor,25/10/2024,Viernes,NULL
+88,True,Niño,12/11/2024,Martes,14:47
+89,False,Niño,25/11/2024,Lunes,12:43
+90,True,Adulto Mayor,29/11/2024,Viernes,NULL
+91,True,Adulto Mayor,21/11/2024,NULL,16:53
+92,True,Adulto,18/09/2024,Miércoles,NULL
+93,NULL,Adulto Mayor,24/11/2024,Domingo,12:39
+94,False,Niño,15/12/2024,Domingo,12:20
+95,NULL,Adulto,26/10/2024,Sábado,15:03
+96,True,Adulto Mayor,06/09/2024,Viernes,11:09
+97,True,NULL,21/12/2024,Sábado,15:34
+98,False,Adulto Mayor,NULL,NULL,13:50
+99,False,Adulto Mayor,25/12/2024,Miércoles,14:13
+100,True,Niño,13/09/2024,Viernes,10:06
+101,NULL,Adulto,14/12/2024,Sábado,13:33
+102,False,Adulto,28/10/2024,Lunes,14:31
+103,True,Niño,01/11/2024,Viernes,10:52
+104,True,Niño,26/11/2024,Martes,15:59
+105,NULL,Adulto,05/11/2024,Martes,16:13
+106,False,Niño,28/12/2024,Sábado,17:16
+107,False,Adulto Mayor,03/11/2024,Domingo,11:45
+108,False,Adulto,10/10/2024,Jueves,13:16
+109,False,Adulto,18/12/2024,Miércoles,12:41
+110,True,Adulto Mayor,NULL,NULL,12:54
+111,True,Adulto Mayor,09/10/2024,Miércoles,15:53
+112,True,Adulto Mayor,20/10/2024,Domingo,14:49
+113,False,Niño,NULL,NULL,10:49
+114,True,Adulto Mayor,18/09/2024,Miércoles,10:13
+115,True,Niño,21/08/2024,Miércoles,14:56
+116,False,Adulto,17/09/2024,Martes,14:38
+117,True,NULL,16/11/2024,Sábado,12:29
+118,False,Niño,31/08/2024,Sábado,12:43
+119,False,Adulto Mayor,10/12/2024,NULL,11:11
+120,False,Adulto Mayor,20/12/2024,Viernes,11:05
+121,False,Adulto Mayor,17/09/2024,Martes,NULL
+122,True,Adulto Mayor,16/12/2024,Lunes,NULL
+123,True,NULL,09/11/2024,Sábado,11:11
+124,False,Niño,15/09/2024,Domingo,16:31
+125,True,Adulto Mayor,26/11/2024,Martes,12:49
+126,False,Adulto,21/11/2024,Jueves,NULL
+127,False,Niño,03/11/2024,NULL,14:22
+128,False,Adulto,10/12/2024,Martes,12:50
+129,False,Niño,14/09/2024,Sábado,16:51
+130,True,Adulto Mayor,14/09/2024,Sábado,16:22
+131,NULL,Adulto Mayor,01/10/2024,Martes,14:35
+132,True,Adulto,29/09/2024,Domingo,16:26
+133,False,Adulto,15/09/2024,NULL,10:09
+134,True,Niño,05/09/2024,NULL,10:45
+135,True,Niño,07/11/2024,Jueves,17:05
+136,False,Adulto Mayor,20/10/2024,NULL,09:41
+137,False,Adulto Mayor,10/11/2024,Domingo,15:43
+138,False,Adulto,NULL,NULL,15:32
+139,False,Niño,10/12/2024,Martes,15:38
+140,False,Adulto,14/10/2024,Lunes,10:28
+141,True,Adulto,15/08/2024,Jueves,13:55
+142,False,Adulto Mayor,29/12/2024,Domingo,14:30
+143,True,NULL,17/10/2024,Jueves,15:22
+144,True,Adulto,24/10/2024,NULL,14:53
+145,False,Niño,20/11/2024,NULL,17:24
+146,NULL,Niño,26/10/2024,Sábado,15:46
+147,True,Adulto Mayor,09/12/2024,Lunes,NULL
+148,True,Adulto,17/12/2024,Martes,10:58
+149,True,Adulto Mayor,24/08/2024,NULL,15:53
+150,True,Adulto Mayor,26/10/2024,Sábado,14:58
+151,False,Adulto,01/12/2024,Domingo,NULL
+152,True,Adulto,05/09/2024,Jueves,13:26
+153,False,Adulto Mayor,14/11/2024,Jueves,10:25
+154,True,Niño,03/09/2024,Martes,15:45
+155,False,Adulto,30/10/2024,Miércoles,NULL
+156,True,Adulto Mayor,NULL,NULL,13:53
+157,True,Niño,22/12/2024,Domingo,11:51
+158,False,Niño,31/08/2024,Sábado,10:06
+159,False,Adulto,30/11/2024,Sábado,16:43
+160,False,Adulto,09/12/2024,Lunes,12:49
+161,False,Adulto,08/10/2024,Martes,10:35
+162,True,Adulto Mayor,29/09/2024,Domingo,12:00
+163,False,NULL,24/10/2024,Jueves,11:21
+164,True,Niño,30/09/2024,Lunes,16:30
+165,True,Adulto Mayor,06/10/2024,Domingo,NULL
+166,True,Adulto,13/11/2024,NULL,15:05
+167,False,Adulto Mayor,24/09/2024,Martes,10:58
+168,False,Adulto,NULL,NULL,14:10
+169,NULL,Niño,28/11/2024,Jueves,15:46
+170,False,Adulto,18/10/2024,Viernes,15:15
+171,False,NULL,12/10/2024,Sábado,14:00
+172,False,Niño,13/12/2024,Viernes,NULL
+173,False,Adulto Mayor,29/11/2024,NULL,12:26
+174,False,Adulto Mayor,03/10/2024,Jueves,14:46
+175,False,Adulto,NULL,NULL,14:25
+176,False,Niño,02/12/2024,Lunes,10:33
+177,True,Adulto Mayor,02/12/2024,Lunes,15:08
+178,True,Adulto,NULL,NULL,15:09
+179,True,Niño,30/11/2024,Sábado,14:29
+180,True,Niño,18/08/2024,Domingo,13:08
+181,True,Adulto Mayor,04/12/2024,NULL,16:55
+182,True,Adulto Mayor,18/10/2024,NULL,14:50
+183,False,Adulto,21/12/2024,NULL,14:50
+184,False,Adulto,NULL,NULL,15:07
+185,True,Adulto,16/08/2024,Viernes,12:12
+186,True,Niño,12/09/2024,Jueves,15:46
+187,True,Niño,17/09/2024,Martes,NULL
+188,True,NULL,16/09/2024,Lunes,15:55
+189,False,Adulto,21/11/2024,Jueves,13:52
+190,False,Adulto,17/08/2024,Sábado,14:49
+191,False,Adulto,11/09/2024,Miércoles,14:05
+192,False,NULL,31/12/2024,Martes,12:52
+193,False,NULL,04/10/2024,Viernes,14:13
+194,False,Adulto Mayor,30/10/2024,Miércoles,14:12
+195,True,Adulto Mayor,07/09/2024,Sábado,16:27
+196,True,Adulto,16/11/2024,Sábado,13:52
+197,False,Adulto Mayor,26/09/2024,Jueves,17:10
+198,False,Adulto Mayor,25/09/2024,NULL,16:40
+199,NULL,Adulto,29/12/2024,Domingo,13:50
+200,NULL,Niño,31/12/2024,Martes,10:21
+201,True,Adulto,29/08/2024,Jueves,14:52
+202,True,Adulto Mayor,10/10/2024,Jueves,09:48
+203,False,Niño,27/09/2024,Viernes,NULL
+204,NULL,Adulto Mayor,11/11/2024,Lunes,11:42
+205,False,Adulto,24/12/2024,Martes,12:39
+206,True,Adulto,17/09/2024,Martes,12:04
+207,True,Adulto,13/12/2024,Viernes,14:27
+208,False,Adulto Mayor,29/09/2024,NULL,15:41
+209,False,Niño,04/11/2024,Lunes,12:04
+210,False,Adulto,05/12/2024,Jueves,10:18
+211,True,Adulto Mayor,08/10/2024,NULL,14:32
+212,False,Adulto,09/12/2024,Lunes,NULL
+213,NULL,Adulto,16/09/2024,Lunes,13:38
+214,True,Niño,25/12/2024,Miércoles,09:39
+215,True,Adulto Mayor,15/10/2024,Martes,NULL
+216,False,Adulto,18/11/2024,NULL,09:38
+217,False,Adulto Mayor,06/10/2024,Domingo,12:56
+218,False,Niño,26/09/2024,Jueves,12:02
+219,False,Adulto,NULL,NULL,13:59
+220,False,NULL,30/10/2024,Miércoles,10:28
+221,False,Adulto Mayor,14/10/2024,Lunes,13:11
+222,NULL,Niño,13/11/2024,Miércoles,11:57
+223,True,Niño,09/11/2024,Sábado,NULL
+224,True,NULL,16/12/2024,Lunes,09:51
+225,False,Niño,03/12/2024,Martes,11:24
+226,False,Adulto Mayor,20/11/2024,Miércoles,13:10
+227,True,Niño,NULL,NULL,15:43
+228,False,Adulto Mayor,12/12/2024,NULL,09:31
+229,False,Adulto Mayor,NULL,NULL,17:12
+230,True,Adulto,12/12/2024,NULL,15:52
+231,False,Adulto Mayor,31/10/2024,Jueves,10:16
+232,False,Adulto Mayor,09/11/2024,Sábado,12:39
+233,True,Adulto Mayor,28/11/2024,NULL,09:49
+234,False,Adulto Mayor,05/12/2024,Jueves,11:44
+235,False,Niño,NULL,NULL,15:14
+236,False,Adulto,NULL,NULL,14:25
+237,False,Adulto Mayor,NULL,NULL,10:52
+238,False,Adulto,NULL,NULL,12:20
+239,False,NULL,15/10/2024,Martes,09:50
+240,False,Adulto Mayor,17/09/2024,Martes,14:31
+241,NULL,Adulto,15/08/2024,Jueves,11:05
+242,True,Adulto Mayor,24/11/2024,Domingo,10:24
+243,False,NULL,29/11/2024,Viernes,16:21
+244,False,Niño,NULL,NULL,16:22
+245,True,Adulto,14/12/2024,Sábado,10:09
+246,True,Adulto Mayor,NULL,NULL,10:53
+247,True,Adulto,07/09/2024,Sábado,NULL
+248,False,Adulto Mayor,29/10/2024,Martes,11:07
+249,True,NULL,08/09/2024,Domingo,15:20
+250,True,Adulto Mayor,30/10/2024,NULL,12:10
+251,NULL,Adulto,23/12/2024,Lunes,14:33
+252,False,Adulto Mayor,10/11/2024,Domingo,NULL
+253,False,Adulto Mayor,03/12/2024,Martes,15:37
+254,False,Niño,17/10/2024,Jueves,12:53
+255,True,Adulto Mayor,08/11/2024,Viernes,NULL
+256,True,Niño,10/10/2024,Jueves,14:19
+257,True,Adulto,19/11/2024,NULL,12:58
+258,True,Adulto Mayor,NULL,NULL,13:44
+259,True,Adulto,05/09/2024,Jueves,NULL
+260,True,Adulto,22/08/2024,Jueves,09:37
+261,True,NULL,11/11/2024,Lunes,14:50
+262,False,Niño,24/11/2024,NULL,16:31
+263,True,Niño,04/12/2024,Miércoles,12:10
+264,False,Niño,18/08/2024,Domingo,14:16
+265,True,Adulto Mayor,24/11/2024,Domingo,11:04
+266,True,Adulto Mayor,22/08/2024,Jueves,12:05
+267,False,Niño,14/12/2024,NULL,17:03
+268,False,Adulto Mayor,04/10/2024,Viernes,16:23
+269,False,NULL,15/10/2024,Martes,12:36
+270,True,Adulto Mayor,NULL,NULL,12:51
+271,NULL,Niño,12/11/2024,Martes,10:32
+272,True,Adulto,NULL,NULL,11:21
+273,False,Adulto,28/09/2024,Sábado,NULL
+274,True,Adulto Mayor,08/11/2024,Viernes,12:09
+275,True,Adulto,29/09/2024,Domingo,11:40
+276,False,Adulto,13/10/2024,Domingo,09:57
+277,True,Niño,NULL,NULL,12:32
+278,NULL,Adulto Mayor,20/09/2024,Viernes,16:52
+279,False,Adulto,13/12/2024,Viernes,10:39
+280,True,Adulto Mayor,26/11/2024,Martes,NULL
+281,NULL,Adulto,27/10/2024,Domingo,11:51
+282,True,Niño,12/12/2024,Jueves,10:13
+283,False,Adulto Mayor,23/11/2024,Sábado,09:40
+284,False,Adulto,17/11/2024,NULL,12:02
+285,True,Niño,04/09/2024,Miércoles,17:02
+286,True,Niño,03/10/2024,Jueves,15:01
+287,True,Adulto Mayor,30/10/2024,Miércoles,12:05
+288,True,Adulto,16/12/2024,Lunes,NULL
+289,True,Adulto Mayor,23/12/2024,Lunes,11:59
+290,False,Adulto,22/10/2024,Martes,14:08
+291,False,Adulto Mayor,12/09/2024,NULL,15:18
+292,True,Niño,18/12/2024,Miércoles,11:31
+293,False,Niño,11/11/2024,Lunes,14:52
+294,True,Adulto Mayor,25/10/2024,Viernes,13:36
+295,False,Adulto,02/12/2024,Lunes,NULL
+296,False,Adulto Mayor,31/10/2024,Jueves,10:41
+297,False,Niño,29/09/2024,Domingo,NULL
+298,True,Niño,NULL,NULL,11:06
+299,True,NULL,03/12/2024,Martes,17:24
+300,True,Adulto,10/10/2024,Jueves,NULL
+301,False,Adulto,13/09/2024,Viernes,16:37
+302,False,Adulto Mayor,21/10/2024,Lunes,17:07
+303,True,Adulto Mayor,19/08/2024,NULL,09:38
+304,True,Adulto,19/08/2024,Lunes,NULL
+305,False,Adulto Mayor,03/12/2024,NULL,15:18
+306,True,NULL,08/09/2024,Domingo,14:48
+307,NULL,Adulto Mayor,07/09/2024,Sábado,11:14
+308,NULL,Niño,23/09/2024,Lunes,14:35
+309,True,Niño,24/08/2024,Sábado,NULL
+310,True,Adulto Mayor,22/09/2024,Domingo,15:55
+311,NULL,Adulto,01/11/2024,Viernes,16:32
+312,False,Adulto Mayor,19/08/2024,Lunes,16:31
+313,False,NULL,11/12/2024,Miércoles,14:45
+314,False,Adulto Mayor,NULL,NULL,16:43
+315,False,Adulto Mayor,24/10/2024,NULL,13:17
+316,True,Adulto Mayor,20/12/2024,NULL,09:59
+317,False,Adulto Mayor,19/09/2024,Jueves,14:41
+318,True,Niño,27/12/2024,Viernes,14:08
+319,False,Niño,10/12/2024,Martes,14:08
+320,NULL,Niño,22/12/2024,Domingo,13:45
+321,False,NULL,22/09/2024,Domingo,10:03
+322,True,NULL,08/09/2024,Domingo,09:38
+323,True,Adulto,24/12/2024,Martes,12:38
+324,True,Niño,26/11/2024,Martes,11:22
+325,False,Niño,NULL,NULL,09:44
+326,True,NULL,02/10/2024,Miércoles,11:40
+327,False,Adulto Mayor,08/09/2024,Domingo,09:46
+328,True,Adulto Mayor,03/10/2024,Jueves,11:19
+329,True,NULL,13/09/2024,Viernes,12:06
+330,False,Niño,NULL,NULL,14:16
+331,True,Niño,15/09/2024,NULL,15:02
+332,True,Adulto Mayor,11/12/2024,NULL,15:42
+333,True,Adulto,25/09/2024,Miércoles,NULL
+334,False,Adulto,31/10/2024,Jueves,12:49
+335,False,Adulto,14/12/2024,Sábado,16:47
+336,True,Niño,25/12/2024,Miércoles,NULL
+337,True,Adulto,17/11/2024,Domingo,10:12
+338,True,Adulto Mayor,10/12/2024,Martes,09:59
+339,True,Adulto Mayor,30/12/2024,NULL,10:44
+340,True,Adulto,20/09/2024,Viernes,NULL
+341,True,Adulto,23/10/2024,Miércoles,11:41
+342,False,Adulto,28/09/2024,Sábado,10:07
+343,True,Niño,24/09/2024,NULL,13:51
+344,NULL,Adulto,15/09/2024,Domingo,11:07
+345,True,Adulto Mayor,20/10/2024,Domingo,NULL
+346,False,Niño,30/11/2024,Sábado,17:23
+347,True,Adulto Mayor,20/11/2024,Miércoles,NULL
+348,True,Niño,01/11/2024,Viernes,11:53
+349,False,Adulto Mayor,07/11/2024,Jueves,15:12
+350,False,Niño,25/11/2024,Lunes,NULL
+351,True,Adulto Mayor,04/10/2024,Viernes,09:38
+352,True,Adulto Mayor,20/12/2024,Viernes,15:53
+353,True,NULL,14/11/2024,Jueves,11:06
+354,False,Adulto Mayor,25/12/2024,NULL,11:15
+355,False,NULL,10/09/2024,Martes,10:38
+356,False,Adulto,NULL,NULL,12:28
+357,NULL,Niño,22/11/2024,Viernes,13:21
+358,True,Niño,24/11/2024,Domingo,14:04
+359,True,Niño,30/11/2024,Sábado,NULL
+360,False,Adulto,24/10/2024,Jueves,12:53
+361,True,NULL,23/11/2024,Sábado,09:59
+362,True,Adulto Mayor,NULL,NULL,15:35
+363,True,Niño,15/11/2024,NULL,15:37
+364,False,Adulto Mayor,09/10/2024,NULL,11:03
+365,False,Adulto,29/11/2024,Viernes,13:26
+366,True,Adulto Mayor,09/09/2024,NULL,16:42
+367,True,Adulto Mayor,31/10/2024,Jueves,10:48
+368,False,Adulto,09/09/2024,Lunes,NULL
+369,True,Niño,NULL,NULL,12:20
+370,True,Adulto Mayor,NULL,NULL,09:49
+371,False,Adulto Mayor,04/10/2024,Viernes,09:58
+372,True,Niño,08/12/2024,Domingo,16:31
+373,True,Niño,12/11/2024,Martes,16:11
+374,True,Niño,23/08/2024,NULL,12:28
+375,False,Adulto,28/10/2024,Lunes,NULL
+376,False,Adulto,01/09/2024,Domingo,16:07
+377,False,Niño,11/11/2024,Lunes,13:13
+378,True,Adulto Mayor,25/12/2024,Miércoles,10:06
+379,True,Niño,16/09/2024,Lunes,14:46
+380,True,Adulto Mayor,NULL,NULL,10:10
+381,False,Adulto,08/11/2024,Viernes,NULL
+382,False,Adulto Mayor,30/12/2024,Lunes,14:46
+383,True,Niño,NULL,NULL,16:19
+384,False,Adulto Mayor,NULL,NULL,16:59
+385,True,Adulto Mayor,10/09/2024,Martes,17:01
+386,False,Adulto Mayor,01/12/2024,Domingo,11:31
+387,True,Adulto Mayor,05/11/2024,Martes,NULL
+388,True,Adulto,18/11/2024,Lunes,10:15
+389,False,Adulto Mayor,NULL,NULL,12:29
+390,True,Niño,NULL,NULL,10:43
+391,False,Adulto,16/08/2024,Viernes,12:35
+392,True,Adulto Mayor,20/12/2024,NULL,11:23
+393,False,Adulto,16/12/2024,Lunes,11:16
+394,False,Adulto,12/12/2024,Jueves,NULL
+395,True,Niño,15/10/2024,Martes,17:13
+396,True,Adulto Mayor,20/12/2024,Viernes,NULL
+397,False,Adulto,NULL,NULL,11:25
+398,True,Niño,29/12/2024,Domingo,16:23
+399,True,NULL,10/12/2024,Martes,12:28
+400,True,Adulto Mayor,04/10/2024,Viernes,13:56
+401,True,Adulto Mayor,15/08/2024,Jueves,10:40
+402,False,Adulto Mayor,23/12/2024,Lunes,13:51
+403,False,Niño,09/11/2024,Sábado,12:13
+404,False,Niño,30/09/2024,Lunes,16:48
+405,NULL,Niño,21/11/2024,Jueves,17:06
+406,False,NULL,16/10/2024,Miércoles,10:25
+407,True,Adulto,05/09/2024,Jueves,10:29
+408,False,NULL,06/12/2024,Viernes,16:59
+409,False,Niño,NULL,NULL,10:38
+410,False,Adulto Mayor,07/11/2024,Jueves,09:31
+411,True,NULL,27/10/2024,Domingo,09:49
+412,False,Adulto Mayor,01/11/2024,Viernes,16:28
+413,False,Adulto Mayor,04/11/2024,Lunes,14:33
+414,True,Niño,14/09/2024,Sábado,10:27
+415,False,Adulto Mayor,NULL,NULL,11:24
+416,True,Adulto,15/12/2024,Domingo,NULL
+417,False,Niño,16/10/2024,Miércoles,13:14
+418,False,Niño,18/12/2024,Miércoles,NULL
+419,False,Adulto,27/12/2024,Viernes,14:08
+420,NULL,Niño,11/12/2024,Miércoles,09:55
+421,False,Adulto,07/10/2024,Lunes,13:20
+422,True,Adulto,28/08/2024,Miércoles,13:31
+423,True,Adulto Mayor,31/10/2024,Jueves,10:15
+424,True,Adulto,03/09/2024,NULL,15:13
+425,False,Adulto,13/10/2024,NULL,16:51
+426,True,Adulto Mayor,NULL,NULL,15:47
+427,True,Adulto,12/09/2024,Jueves,NULL
+428,True,Adulto Mayor,15/08/2024,Jueves,13:23
+429,NULL,Adulto,07/12/2024,Sábado,11:42
+430,False,Niño,29/11/2024,Viernes,10:15
+431,False,Adulto Mayor,13/12/2024,Viernes,11:47
+432,True,Niño,25/11/2024,NULL,09:44
+433,True,Adulto Mayor,09/11/2024,NULL,14:21
+434,False,Adulto,11/10/2024,Viernes,17:16
+435,True,Niño,14/10/2024,Lunes,NULL
+436,False,Adulto Mayor,31/08/2024,NULL,13:33
+437,False,Niño,23/12/2024,NULL,13:36
+438,True,Adulto,01/10/2024,Martes,15:48
+439,True,Adulto Mayor,NULL,NULL,14:46
+440,False,NULL,28/12/2024,Sábado,14:03
+441,True,Adulto Mayor,23/08/2024,Viernes,13:22
+442,False,NULL,15/11/2024,Viernes,13:23
+443,False,Adulto Mayor,NULL,NULL,11:34
+444,False,Adulto Mayor,31/08/2024,Sábado,13:49
+445,False,NULL,17/11/2024,Domingo,10:43
+446,False,Adulto Mayor,05/09/2024,Jueves,NULL
+447,False,Niño,16/12/2024,Lunes,17:04
+448,False,Adulto Mayor,01/11/2024,NULL,10:16
+449,False,Adulto Mayor,09/11/2024,Sábado,10:31
+450,NULL,Adulto Mayor,22/12/2024,Domingo,12:30
+451,True,Adulto Mayor,29/12/2024,Domingo,15:52
+452,False,Niño,NULL,NULL,17:14
+453,False,Adulto,16/09/2024,Lunes,13:35
+454,False,Niño,16/08/2024,Viernes,17:05
+455,True,Adulto,22/12/2024,Domingo,17:20
+456,NULL,Adulto Mayor,28/10/2024,Lunes,14:48
+457,True,Adulto Mayor,NULL,NULL,11:12
+458,NULL,Adulto,12/11/2024,Martes,14:26
+459,False,Niño,NULL,NULL,16:55
+460,False,Adulto Mayor,20/10/2024,Domingo,14:30
+461,True,Adulto,28/10/2024,Lunes,13:09
+462,False,Niño,19/11/2024,Martes,15:46
+463,False,Adulto Mayor,06/10/2024,Domingo,14:17
+464,False,Niño,07/10/2024,NULL,11:09
+465,False,Niño,07/10/2024,Lunes,14:53
+466,True,Adulto,11/10/2024,Viernes,NULL
+467,False,NULL,20/12/2024,Viernes,09:45
+468,True,Adulto Mayor,19/12/2024,Jueves,10:01
+469,True,Adulto Mayor,18/11/2024,Lunes,NULL
+470,True,NULL,17/08/2024,Sábado,11:55
+471,False,Niño,27/12/2024,Viernes,14:20
+472,False,Adulto Mayor,10/09/2024,Martes,13:56
+473,True,Adulto Mayor,12/09/2024,Jueves,NULL
+474,False,Niño,13/11/2024,Miércoles,16:39
+475,True,Niño,24/10/2024,Jueves,15:42
+476,False,Adulto,29/11/2024,Viernes,09:40
+477,True,Adulto,26/08/2024,Lunes,16:32
+478,NULL,Niño,02/12/2024,Lunes,11:25
+479,True,Adulto Mayor,09/11/2024,Sábado,14:49
+480,False,Adulto,NULL,NULL,11:58
+481,True,Adulto Mayor,18/08/2024,Domingo,NULL
+482,True,Adulto Mayor,NULL,NULL,16:25
+483,False,Niño,12/09/2024,Jueves,14:25
+484,NULL,Niño,27/11/2024,Miércoles,17:09
+485,True,Adulto,01/12/2024,Domingo,NULL
+486,NULL,Niño,05/12/2024,Jueves,11:22
+487,False,Niño,06/09/2024,Viernes,15:10
+488,True,Adulto,01/10/2024,Martes,15:25
+489,False,Niño,03/12/2024,Martes,13:21
+490,True,Adulto,11/12/2024,NULL,15:59
+491,True,Niño,NULL,NULL,13:00
+492,False,Niño,08/10/2024,Martes,12:01
+493,False,Adulto Mayor,19/11/2024,Martes,10:06
+494,NULL,Niño,16/08/2024,Viernes,12:59
+495,NULL,Adulto Mayor,18/12/2024,Miércoles,11:31
+496,False,Adulto,11/12/2024,NULL,10:13
+497,True,Adulto,NULL,NULL,17:05
+498,True,Adulto,23/10/2024,NULL,13:30
+499,NULL,Adulto,02/10/2024,Miércoles,13:54
+500,False,Adulto,07/12/2024,Sábado,11:21
+501,False,Adulto,NULL,NULL,11:25
+502,True,Adulto Mayor,03/09/2024,NULL,15:42
+503,True,Adulto Mayor,01/12/2024,Domingo,16:22
+504,False,Adulto Mayor,21/08/2024,Miércoles,17:18
+505,True,Niño,07/10/2024,Lunes,14:21
+506,False,Adulto,25/12/2024,NULL,13:01
+507,True,Adulto Mayor,27/09/2024,Viernes,NULL
+508,True,Adulto,14/11/2024,Jueves,16:44
+509,False,Niño,05/11/2024,Martes,14:16
+510,False,Adulto Mayor,18/09/2024,Miércoles,NULL
+511,False,Niño,22/11/2024,Viernes,10:15
+512,True,Adulto Mayor,NULL,NULL,16:08
+513,False,Adulto Mayor,07/11/2024,Jueves,16:21
+514,False,Adulto,NULL,NULL,15:07
+515,True,Niño,19/11/2024,Martes,15:33
+516,False,Niño,NULL,NULL,11:25
+517,NULL,Adulto,27/09/2024,Viernes,09:31
+518,True,Niño,20/10/2024,Domingo,13:47
+519,True,Niño,29/11/2024,Viernes,15:14
+520,False,Adulto,NULL,NULL,16:38
+521,True,Adulto,26/09/2024,Jueves,10:21
+522,False,Adulto,05/12/2024,Jueves,NULL
+523,False,Niño,06/10/2024,Domingo,NULL
+524,False,Adulto,NULL,NULL,11:58
+525,True,Niño,29/12/2024,Domingo,NULL
+526,False,Adulto,27/09/2024,Viernes,10:19
+527,False,Niño,07/12/2024,NULL,10:51
+528,False,Adulto,23/11/2024,Sábado,NULL
+529,True,Niño,NULL,NULL,09:45
+530,True,Adulto,21/08/2024,Miércoles,14:55
+531,NULL,Niño,07/12/2024,Sábado,14:56
+532,True,Adulto Mayor,02/12/2024,Lunes,14:27
+533,False,Niño,14/12/2024,Sábado,11:25
+534,False,Niño,NULL,NULL,10:38
+535,True,Adulto Mayor,10/12/2024,Martes,NULL
+536,False,Adulto Mayor,01/11/2024,Viernes,NULL
+537,True,Niño,17/09/2024,Martes,11:03
+538,True,Adulto,NULL,NULL,16:31
+539,True,Niño,20/10/2024,Domingo,10:21
+540,False,Adulto,11/12/2024,Miércoles,14:05
+541,False,Adulto Mayor,04/10/2024,Viernes,13:06
+542,False,NULL,11/11/2024,Lunes,15:02
+543,True,Adulto Mayor,21/12/2024,Sábado,NULL
+544,NULL,Niño,20/12/2024,Viernes,14:05
+545,False,NULL,28/11/2024,Jueves,10:06
+546,False,Adulto,17/11/2024,NULL,11:31
+547,False,Adulto Mayor,15/09/2024,NULL,09:34
+548,False,NULL,19/10/2024,Sábado,10:56
+549,True,Adulto Mayor,17/08/2024,NULL,11:45
+550,True,Adulto,25/11/2024,Lunes,13:19
+551,NULL,Adulto,08/12/2024,Domingo,15:00
+552,False,Adulto,28/10/2024,Lunes,17:22
+553,True,Niño,23/12/2024,Lunes,13:27
+554,True,NULL,22/09/2024,Domingo,16:38
+555,False,Adulto Mayor,04/10/2024,Viernes,13:53
+556,True,Adulto,12/09/2024,Jueves,NULL
+557,False,Adulto Mayor,30/08/2024,Viernes,11:14
+558,True,NULL,10/09/2024,Martes,10:42
+559,True,Niño,NULL,NULL,16:02
+560,False,Adulto,15/09/2024,Domingo,NULL
+561,True,Adulto,17/12/2024,Martes,12:16
+562,True,Adulto Mayor,NULL,NULL,14:38
+563,True,Adulto Mayor,20/12/2024,NULL,11:21
+564,True,Adulto,26/08/2024,Lunes,11:39
+565,False,Niño,NULL,NULL,11:18
+566,False,Adulto Mayor,30/12/2024,NULL,13:18
+567,True,Niño,11/12/2024,Miércoles,15:47
+568,True,NULL,10/09/2024,Martes,15:02
+569,True,Niño,NULL,NULL,11:48
+570,False,Adulto Mayor,19/09/2024,Jueves,14:41
+571,False,Niño,05/09/2024,Jueves,16:56
+572,True,Adulto Mayor,NULL,NULL,14:08
+573,False,Adulto Mayor,30/10/2024,Miércoles,12:14
+574,True,Adulto Mayor,05/12/2024,Jueves,17:28
+575,False,NULL,16/12/2024,Lunes,11:13
+576,False,Adulto,13/12/2024,Viernes,14:00
+577,True,Adulto,24/10/2024,Jueves,NULL
+578,True,Adulto,18/10/2024,Viernes,13:27
+579,True,Niño,NULL,NULL,14:51
+580,True,Adulto,17/12/2024,Martes,11:37
+581,False,Niño,28/11/2024,Jueves,NULL
+582,False,Adulto,01/09/2024,Domingo,10:34
+583,False,Niño,28/09/2024,Sábado,11:10
+584,False,Adulto,15/12/2024,Domingo,10:19
+585,False,Adulto Mayor,NULL,NULL,17:25
+586,True,Adulto,17/12/2024,NULL,14:40
+587,False,Adulto,03/12/2024,Martes,10:57
+588,False,Adulto Mayor,02/09/2024,Lunes,13:55
+589,False,Adulto Mayor,19/10/2024,NULL,14:59
+590,NULL,Adulto Mayor,06/12/2024,Viernes,16:38
+591,True,Adulto Mayor,17/11/2024,Domingo,15:24
+592,False,NULL,31/10/2024,Jueves,16:58
+593,NULL,Adulto,06/10/2024,Domingo,12:11
+594,True,NULL,15/08/2024,Jueves,12:21
+595,False,Adulto Mayor,28/10/2024,Lunes,11:36
+596,False,Adulto Mayor,12/10/2024,Sábado,NULL
+597,False,Adulto Mayor,27/11/2024,Miércoles,NULL
+598,False,Adulto,17/09/2024,NULL,13:37
+599,True,Niño,30/11/2024,Sábado,14:24
