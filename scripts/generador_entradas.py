@@ -5,7 +5,7 @@ import time
 from datetime import datetime, timedelta
 
 carpeta_destino = '../zoo_dataset'
-nombre_archivo_csv = 'entradas_zoo.csv'
+nombre_archivo_csv = 'entradas_zoo_sucio_generado.csv'
 
 
 def fecha_random(inicio, fin, formato, prop):
@@ -34,7 +34,7 @@ def dia_semana(fecha):
 
 diccionario_ventas = {"VIP": [], "rango_etario": [], "fecha": [], "día_semana": [], "hora_ingreso": []}
 
-for _ in range(200):
+for _ in range(500):
     definir_nulo = random.randint(1, 400)
     fecha = ""
     if definir_nulo in range(1, 41):
