@@ -1,2 +1,10 @@
+# MAIN Program
+
 pandas==2.2.3
 numpy==2.2.5
+seaborn==0.13.2 # (includes matplotlib)
+
+# FORMATTER
+
+#black==25.1.0
+
