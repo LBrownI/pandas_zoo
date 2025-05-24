@@ -131,7 +131,7 @@ for comercio in left_join_entradas_habitats["comercio"].unique():
     conteo_satisfaccion = filtro_comercio["satisfaccion"].value_counts().reset_index()
     plt.figure()
     plt.pie(conteo_satisfaccion["count"], labels=conteo_satisfaccion["satisfaccion"], autopct='%.0f%%')
-    titulo_comercio = "hay comercio" if comercio else "NO hay comercio"
+    titulo_comercio = "SI" if comercio else "NO"
     plt.title(f"Satisfacción (1 a 5) de visitantes cuando {titulo_comercio} hay comercio")
 
 plt.show()
