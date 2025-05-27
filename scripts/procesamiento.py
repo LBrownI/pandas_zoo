@@ -4,11 +4,11 @@ import seaborn as sb
 import matplotlib.pyplot as plt
 from datetime import datetime
 
-entradas = pd.read_csv("./zoo_dataset/entradas_zoo_limpio.csv", encoding="utf-8")
-habitats = pd.read_csv("./zoo_dataset/habitats_generado.csv", encoding="utf-8")
-entradas_habitats = pd.read_csv("./zoo_dataset/visitas_habitats_limpio.csv", encoding="utf-8")
-entradas_shows = pd.read_csv("./zoo_dataset/visitas_shows_limpio.csv", encoding="utf-8")
-shows = pd.read_csv("./zoo_dataset/shows_generado.csv", encoding="utf-8")
+entradas = pd.read_csv("../zoo_dataset/entradas_zoo_limpio.csv", encoding="utf-8")
+habitats = pd.read_csv("../zoo_dataset/habitats_generado.csv", encoding="utf-8")
+entradas_habitats = pd.read_csv("../zoo_dataset/visitas_habitats_limpio.csv", encoding="utf-8")
+entradas_shows = pd.read_csv("../zoo_dataset/visitas_shows_limpio.csv", encoding="utf-8")
+shows = pd.read_csv("../zoo_dataset/shows_generado.csv", encoding="utf-8")
 
 
 # Responder pregunta 1: ¿Qué días de la semana hay una mayor frecuencia de visitantes según cada rango etario?
@@ -123,7 +123,8 @@ plt.tight_layout()
 
 # Pregunta 6: ¿La presencia de comercios en los hábitats afecta la satisfacción de los visitantes?
 for comercio in left_join_entradas_habitats["comercio"].unique():
-    filtro_comercio = left_join_entradas_habitats[left_join_entradas_habitats["comercio"] == comercio]
+    filtro_comercio = left_join_entradas_habitats[left_join_entradas_habitats["comercio"] == comercio].copy()
+    filtro_comercio["satisfaccion"] = filtro_comercio["satisfaccion"].fillna("No responde")
     conteo_satisfaccion = filtro_comercio["satisfaccion"].value_counts().reset_index()
     plt.figure()
     plt.pie(conteo_satisfaccion["count"], labels=conteo_satisfaccion["satisfaccion"], autopct='%.0f%%')
